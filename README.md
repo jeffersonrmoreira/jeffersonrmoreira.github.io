@@ -1,5 +1,6 @@
 # jeffersonrmoreira.github.io
-Meu teste
+
+Repositório público do Professor Jefferson Roger Moreira
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonrmoreira&show_icons=true&theme=radical)
 
