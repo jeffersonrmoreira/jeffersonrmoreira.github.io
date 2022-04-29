@@ -1,5 +1,3 @@
-# jeffersonrmoreira.github.io
-
 ## Olá! Repositório público do Professor Jefferson Roger
 <div align="center">
   <a href="https://github.com/jeffersonrmoreira"></a>
