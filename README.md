@@ -1,4 +1,4 @@
-### Olá! Repositório público do Professor Jefferson Roger
+### Aoba... Repositório público do Professor Jefferson Roger
 <div align="center">
   <a href="https://github.com/jeffersonrmoreira"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffersonrmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,9 +10,8 @@
   <img align="center" alt="JRM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JRM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-## 
-  
+<!-- ## -->
+<br>
 <div> 
  <a href = "mailto:jefferson.rmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "mailto:jefferson.rmoreira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
