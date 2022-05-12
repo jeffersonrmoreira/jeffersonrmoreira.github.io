@@ -4,8 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffersonrmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     </div>
 <div style="display: inline_block"><br>
-  <a href="Atividade_2º_INFONET_Tabelas.pdf" download="Atividade_2º_INFONET_Tabelas.pdf" type="application/pdf">
-  <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="JRM-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JRM-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="JRM-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -36,4 +35,8 @@
   <a href = "mailto:jefferson.rmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "mailto:jefferson.rmoreira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+  <div>
+    <a href="Atividade_2º_INFONET_Tabelas.pdf" download="Atividade_2º_INFONET_Tabelas.pdf" type="application/pdf">Atividade Tabela
+  <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  </div>
 
