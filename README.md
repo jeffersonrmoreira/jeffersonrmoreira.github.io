@@ -39,4 +39,8 @@
     <a href="Atividade_2º_INFONET_Tabelas.pdf" download="Atividade_2º_INFONET_Tabelas.pdf" type="application/pdf">
   <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Tabela</a>
   </div>
+  <div>
+    <a href="Atividade_2º_INFONET_Fontes.pdf" download="Atividade_Fontes.zip" type="application/pdf">
+  <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Fontes</a>
+  </div>
 
