@@ -45,4 +45,3 @@
     <a href="Atividade_Fontes.zip" download="Atividade_Fontes.zip" type="application/zip">
   <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Fontes</a>
   </div>
-
