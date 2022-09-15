@@ -35,6 +35,7 @@
    <a href = "mailto:jefferson.rmoreira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
   <br>
+  <!--
   <div>
     <a href="Atividade_2º_INFONET_Tabelas.pdf" download="Atividade_2º_INFONET_Tabelas.pdf" type="application/pdf">
   <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Tabela</a>
@@ -43,4 +44,4 @@
   <div>
     <a href="Atividade_Fontes.zip" download="Atividade_Fontes.zip" type="application/zip">
   <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Fontes</a>
-  </div>
+  </div> -->
