@@ -40,11 +40,11 @@
     <a href="Atividade_2º_INFONET_Tabelas.pdf" download="Atividade_2º_INFONET_Tabelas.pdf" type="application/pdf">
   <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Tabela</a>
   </div>
-  <br>
+  <br> -->
   <div>
     <a href="Atividade_Fontes.zip" download="Atividade_Fontes.zip" type="application/zip">
   <img align="center" alt="JRM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">Atividade Fontes</a>
-  </div> -->
+  </div> 
   
  <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="MWGJXdP" data-user="jeffersonrmoreira" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/jeffersonrmoreira/pen/MWGJXdP">
